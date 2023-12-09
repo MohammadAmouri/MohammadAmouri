@@ -11,13 +11,13 @@
        <td>
         <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse;">
             <tr>
-              <td bgcolor="#286F69" width="600" height="150" background="https://chipbaber.github.io/apex_email/images/title_bg.jpg">
+              <td bgcolor="#294ee" width="600" height="150" background="https://chipbaber.github.io/apex_email/images/title_bg.jpg">
                <p style="color:white; font-weight:800; font-size:34px;">
                  <img src="https://chipbaber.github.io/apex_email/images/spacer.png" width="17px" height="8px">Tour Details</p>
               </td>
             </tr>
             <tr>
-              <td bgcolor="#E6F0EF" style="padding: 10px 0px 15px 0px;">
+              <td bgcolor="#a1caf6" style="padding: 10px 0px 15px 0px;">
                  <!--Core Element-->
                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding: 10px 10px 10px 10px;">
                   <!--Add assett item copy to add more elements-->
@@ -41,7 +41,7 @@
                         #Add Candidate Description#
                         </td></tr></table>
                         </td></tr>
-                        <tr><td style="padding: 25px 0px 25px 0px; border-bottom: 2px solid #286F69;" colspan="2">
+                        <tr><td style="padding: 25px 0px 25px 0px; border-bottom: 2px solid #316cab;" colspan="2">
 
                         </td></tr>
                         </table>
